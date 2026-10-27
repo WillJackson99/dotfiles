@@ -1,0 +1,3 @@
+# Keep LF everywhere so psmux/tmux/nvim configs parse the same on Windows
+* text=auto eol=lf
+*.ps1 text eol=crlf
